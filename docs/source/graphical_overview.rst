@@ -1,4 +1,4 @@
-Graphical Overview
+Data collection and processing
 ==================
 
 Data Collection Workflow
