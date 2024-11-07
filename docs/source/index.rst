@@ -1,5 +1,10 @@
-Welcome to ChemoPar-db's documentation!
-=======================================
+.. ChemoPar-db documentation master file, created by
+   sphinx-quickstart on November 7, 2024.
+
+========================================================
+ChemoPar-db: A Structural Chemogenomics Database
+========================================================
+
 Welcome to **ChemoPar-db** documentation! ChemoPar-db is a specialized database designed to provide comprehensive structural information on chemokines and their diverse binding partners. This resource supports researchers in exploring chemokine interactions, structural motifs, and binding partners, with features tailored for easy access to curated data on chemokines and their roles in immune system function and disease processes.
 
 Overview
@@ -51,7 +56,7 @@ Documentation Contents
 Support
 =======
 
-For questions or assistance with ChemoPar-db, please refer to the **FAQ** page or contact our support team at `b.de.boer2@vu.nl`.
+For questions or assistance with ChemoPar-db, please refer to the **FAQ** page or contact our support team at `support@chemopar-db.net`.
 
 .. note::
    **Acknowledgments**: ChemoPar-db was developed by the Division of Medicinal Chemistry, AIMMS, Vrije Universiteit Amsterdam, and the Department of Drug Design and Pharmacology, University of Copenhagen.
