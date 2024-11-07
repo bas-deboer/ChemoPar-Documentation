@@ -1,6 +1,3 @@
-.. ChemoPar-db documentation master file, created by
-   sphinx-quickstart on November 7, 2024.
-
 ========================================================
 ChemoPar-db: A Structural Chemogenomics Database
 ========================================================
@@ -44,19 +41,14 @@ Documentation Contents
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: User documentation
 
-   getting_started
-   protein_data
-   structure_data
-   interaction_analysis
-   api_usage
-   faq
+   graphical_overview
 
 Support
 =======
 
-For questions or assistance with ChemoPar-db, please refer to the **FAQ** page or contact our support team at `support@chemopar-db.net`.
+For questions or assistance with ChemoPar-db, please refer to the **FAQ** page or contact our main developer at `b.de.boer2@vu.nl`.
 
 .. note::
    **Acknowledgments**: ChemoPar-db was developed by the Division of Medicinal Chemistry, AIMMS, Vrije Universiteit Amsterdam, and the Department of Drug Design and Pharmacology, University of Copenhagen.
