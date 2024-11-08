@@ -32,9 +32,6 @@ ChemoPar-db is freely accessible to all users at https://chemopar-db.net, with b
 .. note::
    ChemoPar-db is still under active development
 
-Documentation Contents
-======================
-
 .. _user-docs:
 
 .. toctree::
@@ -42,6 +39,7 @@ Documentation Contents
    :caption: User documentation
 
    graphical_overview
+   proteins
    api
 
 .. _about-docs:
