@@ -32,11 +32,21 @@ ChemoPar-db is freely accessible to all users at https://chemopar-db.net, with b
 Documentation Contents
 ======================
 
+.. _user-docs:
+
 .. toctree::
    :maxdepth: 2
    :caption: User documentation
 
    graphical_overview
+
+.. _about-docs:
+
+.. toctree::
+    :maxdepth: 2
+    :caption: About ChemoPar-db
+
+   about
 
 Support
 =======
