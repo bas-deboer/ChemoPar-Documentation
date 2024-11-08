@@ -1,5 +1,5 @@
 Data collection and processing
-==================
+==============================
 
 Data Collection Workflow
 ------------------------
@@ -28,8 +28,6 @@ ChemoPar-db provides various functionalities for users to access and analyze che
 - **Detailed Sequence and Structure Annotations**: Explore structural motifs and sequence alignments, view binding sites, and analyze conserved regions across chemokine subfamilies.
 - **Interaction Visualization**: Visualize chemokine-partner interactions using molecular fingerprints, and perform similarity searches based on interaction profiles.
 - **RESTful API Access**: Retrieve chemokine data programmatically for integration into bioinformatics workflows.
-
-Below is a snapshot of ChemoPar-db's functionalities, demonstrating the primary data retrieval and analysis options available to users.
 
 .. image:: images/chemopardb_functionalities.png
    :width: 700

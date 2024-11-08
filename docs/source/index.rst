@@ -40,6 +40,7 @@ ChemoPar-db is freely accessible to all users at https://chemopar-db.net, with b
 
    graphical_overview
    proteins
+   structures
    api
 
 .. _about-docs:
