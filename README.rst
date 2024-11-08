@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Read the Docs for ChemoPar-db
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This repository contains documentation for ChemoPar-db.
 
-Read the tutorial here:
+Visit the database here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://chemopar-db.net/

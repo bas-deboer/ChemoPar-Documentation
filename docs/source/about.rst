@@ -7,16 +7,21 @@ ChemoPar-db: Exploring Chemokine Interactions
 ChemoPar-db, the Chemokine Partner Database, is a dedicated structural chemogenomics database for chemokines 
 and their diverse binding partners. Chemokines are a unique class of small, secreted signaling proteins that 
 play critical roles in immune cell migration, cellular communication, and responses to inflammation and disease,
- including cancer and autoimmune disorders.
+including cancer and autoimmune disorders.
 
 ChemoPar-db was developed to fill a gap in protein databases by offering a specialized resource for the structural
- analysis of chemokines. Unlike general-purpose protein databases, ChemoPar-db is tailored to highlight chemokine 
- interactions with a range of binding partners, including:
+analysis of chemokines. Unlike general-purpose protein databases, ChemoPar-db is tailored to highlight chemokine 
+interactions with a range of binding partners, including:
 
 - **G-protein coupled receptors (GPCRs):** These are key receptors for chemokines, playing pivotal roles in immune cell communication and migration.
 - **Glycosaminoglycans (GAGs):** These are polysaccharides on cell surfaces that interact with chemokines to form stable gradients, assisting in the directed movement of immune cells.
 - **Other chemokines:** Chemokines often form dimers or higher-order oligomers with one another, impacting their biological activity.
 - **Pathogen-derived proteins:** Pathogens, such as viruses and ticks, can secrete chemokine-binding proteins (CKBPs) to hijack or inhibit chemokine function as a way of evading the immune system.
+
+.. image:: images/Chemokine_partners.png
+   :width: 500
+   :align: center
+   :alt: ChemoPar-db Data Collection Workflow
 
 Platform Features
 -----------------

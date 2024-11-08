@@ -23,7 +23,6 @@ Overview
 
 Chemokines are small, secreted signaling proteins essential for immune cell migration and cellular communication. They play key roles in inflammatory responses and disease states, including cancer and autoimmune conditions. Given the unique interaction profiles of chemokines with GPCRs, glycosaminoglycans (GAGs), other chemokines, and pathogen-derived proteins, ChemoPar-db offers a valuable tool for understanding these complex interactions.
 
-
 Getting Started
 ==================
 
@@ -41,6 +40,7 @@ ChemoPar-db is freely accessible to all users at https://chemopar-db.net, with b
    graphical_overview
    proteins
    structures
+   interactions
    api
 
 .. _about-docs:
