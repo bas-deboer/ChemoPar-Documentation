@@ -1,7 +1,7 @@
 Structures
 ==========
 
-The 'structure' page at https://chemopar-db.net/structure/ provides detailed structural information on all chemokine structures stored in the database. Entries can be browsed and filter based on multiple annotations (PDB ID, Protein, Class, Organism, UniProt accession, Meth, Resolution, Oligomeric state, Date, and Reference)
+The 'structure' page at https://chemopar-db.net/structure/ provides detailed structural information on all chemokine structures stored in the database. Entries can be browsed and filter based on multiple annotations (PDB ID, Protein, Class, Organism, UniProt accession, Experimental Method, Resolution, Oligomeric state, Date, and Reference)
 
 Structure info page
 -------------------
