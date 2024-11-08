@@ -42,6 +42,7 @@ Documentation Contents
    :caption: User documentation
 
    graphical_overview
+   api
 
 .. _about-docs:
 
