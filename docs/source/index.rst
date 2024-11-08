@@ -37,7 +37,7 @@ ChemoPar-db is freely accessible to all users at https://chemopar-db.net, with b
    :maxdepth: 2
    :caption: User documentation
 
-   graphical_overview
+   overview
    proteins
    structures
    interactions
