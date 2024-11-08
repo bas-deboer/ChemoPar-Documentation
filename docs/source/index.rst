@@ -29,6 +29,9 @@ Getting Started
 
 ChemoPar-db is freely accessible to all users at https://chemopar-db.net, with both web and programmatic API access. Researchers can retrieve sequence data, structure files, and interaction fingerprints to support bioinformatics and cheminformatics applications.
 
+.. note::
+   ChemoPar-db is still under active development
+
 Documentation Contents
 ======================
 
@@ -43,15 +46,9 @@ Documentation Contents
 .. _about-docs:
 
 .. toctree::
-    :maxdepth: 2
-    :caption: About ChemoPar-db
+   :maxdepth: 2
+   :caption: About ChemoPar-db
 
    about
-
-Support
-=======
-
-For questions or assistance with ChemoPar-db, please refer to the **FAQ** page or contact our main developer at `b.de.boer2@vu.nl`.
-
-.. note::
-   ChemoPar-db is still under active development
+   contact
+   citing_chemopar-db

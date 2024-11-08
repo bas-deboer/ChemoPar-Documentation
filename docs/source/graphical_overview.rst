@@ -20,8 +20,8 @@ Each entry in ChemoPar-db is annotated with sequence and structure alignment inf
    :width: 700
    :alt: ChemoPar-db Data Collection Workflow
 
-Functionalities Snapshot
-------------------------
+Functionalities
+---------------
 ChemoPar-db provides various functionalities for users to access and analyze chemokine data efficiently. Each function is designed to support in-depth research on chemokine structure and function. Key features include:
 
 - **Chemokine and Structure Browsing**: Browse chemokine entries by name or PDB code, with quick links to associated structures, sequences, and interaction details.
