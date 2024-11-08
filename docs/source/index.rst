@@ -2,7 +2,7 @@
 Welcome to the ChemoPar-db documentation
 ========================================
 
-ChemoPar-db (the chemokine partner database) is a specialized structural protein database focused on chemokines. 
+**ChemoPar-db** (the Chemokine Partner Database) is a specialized structural protein database focused on chemokines. 
 Chemokines interact with multiple binding partners, including GPCRs, glycosaminoglycans, other chemokines, 
 and pathogen-derived proteins, making them essential players in immune cell communication, inflammation, and disease processes.
 Users can browse all chemokine structures and inspect the molecular interactions between chemokines and their binding partners.

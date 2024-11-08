@@ -3,13 +3,7 @@ Data collection and processing
 
 Data Collection Workflow
 ------------------------
-ChemoPar-db centralizes structural data for chemokines and their binding partners, offering a unique platform for exploring chemokine interactions in the immune system. Data is collected from various sources, including the Protein Data Bank (PDB) and UniProt, ensuring comprehensive coverage of chemokine structures, sequences, and interaction annotations.
-
-To achieve this, we collected and processed structural data on:
-- **Chemokines**: Key signaling proteins with significant roles in immune response and disease.
-- **Binding Partners**: Including GPCRs, glycosaminoglycans (GAGs), pathogen-derived proteins, and other chemokines.
-- **Interaction Fingerprints**: Detailed molecular interaction fingerprints (IFPs) for annotated interaction analysis.
-
+ChemoPar-db centralizes structural data for chemokines and their binding partners, offering a unique platform for exploring chemokine interactions. Data is collected from various sources, including the Protein Data Bank (PDB) and UniProt, ensuring comprehensive coverage of chemokine structures, sequences, and interaction annotations.
 Each entry in ChemoPar-db is annotated with sequence and structure alignment information, interaction types, and standardized residue numbering, allowing for systematic data exploration. The workflow below summarizes the multi-step data collection and processing pipeline, covering data retrieval, sequence alignment, structure processing, and interaction fingerprint generation.
 
 .. |br| raw:: html
