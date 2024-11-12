@@ -6,10 +6,6 @@ Data Collection Workflow
 ChemoPar-db centralizes structural data for chemokines and their binding partners, offering a unique platform for exploring chemokine interactions. Data is collected from various sources, including the Protein Data Bank (PDB) and UniProt, ensuring comprehensive coverage of chemokine structures, sequences, and interaction annotations.
 Each entry in ChemoPar-db is annotated with sequence and structure alignment information, interaction types, and standardized residue numbering, allowing for systematic data exploration. The workflow below summarizes the multi-step data collection and processing pipeline, covering data retrieval, sequence alignment, structure processing, and interaction fingerprint generation.
 
-.. |br| raw:: html
-
-      <br>
-
 .. image:: images/chemopardb_data_collection.png
    :width: 700
    :alt: ChemoPar-db Data Collection Workflow
