@@ -55,5 +55,6 @@ ChemoPar-db is freely accessible to all users at https://chemopar-db.net, with b
    :caption: About ChemoPar-db
 
    about
+   browser_compatibilities 
    contact
    citing_chemopar-db
